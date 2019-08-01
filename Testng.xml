@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testingexample">
+<test name="testngtest">
+<classes>
+<class name="pack1.Ex1"/>
+
+</classes>
+</test>
+</suite>
